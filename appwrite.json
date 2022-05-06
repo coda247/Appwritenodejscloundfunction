@@ -1,0 +1,50 @@
+{
+    "projectId": "6263fca92da7ba897d75",
+    "projectName": "Loomo-mvp",
+    "functions": [
+        {
+            "$id": "6231246b3ca17a97ff76",
+            "name": "nodejs",
+            "runtime": "node-16.0",
+            "path": "functions/nodejs",
+            "entrypoint": "src/index.js",
+            "execute": [],
+            "events": [],
+            "schedule": "",
+            "timeout": 15
+        },
+        {
+            "$id": "6257f523ce49f1a3e88e",
+            "name": "update",
+            "runtime": "node-16.0",
+            "path": "functions/update",
+            "entrypoint": "src/index.js",
+            "execute": [],
+            "events": [],
+            "schedule": "",
+            "timeout": 15
+        },
+        {
+            "$id": "626417fbeebf8b5b89b2",
+            "name": "coins",
+            "runtime": "node-16.0",
+            "path": "functions/coins",
+            "entrypoint": "src/index.js",
+            "execute": [],
+            "events": [],
+            "schedule": "",
+            "timeout": 15
+        },
+        {
+            "$id": "62641af18f97c1b8c299",
+            "name": "priceupdate",
+            "runtime": "node-16.0",
+            "path": "functions/priceupdate",
+            "entrypoint": "src/index.js",
+            "execute": [],
+            "events": [],
+            "schedule": "",
+            "timeout": 15
+        }
+    ]
+}
